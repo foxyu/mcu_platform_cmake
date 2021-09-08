@@ -10,3 +10,6 @@
 [submodule "Libraries/RTOS/FreeRTOS/FreeRTOS-kernel"]
 	path = Libraries/RTOS/FreeRTOS/FreeRTOS-kernel
 	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+[submodule "Libraries/RTOS/RT-thread/RT-thread-Nano"]
+	path = Libraries/RTOS/RT-thread/RT-thread-Nano
+	url = https://github.com/RT-Thread/rtthread-nano.git
